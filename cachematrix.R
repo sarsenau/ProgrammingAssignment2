@@ -1,5 +1,5 @@
 ## These two functions illustrate one method of creating an object in R
-## through lexical scoping and a closure. This code uses the programming
+## through lexical scoping and closures. This code uses the programming
 ## assignment 2 example for caching the mean of a vector as a model.
 ## (https://class.coursera.org/rprog-003)
 
